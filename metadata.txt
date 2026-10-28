@@ -1,0 +1,9 @@
+01	Fatih '21 logo | PNG version, full transparent, without 3D shade
+02	Fatih '21 logo | JPG version, black background, Without 3D shade
+03	Fatih '21 logo | JPG version, Facebook DP version, Golden circle
+04	Fatih '21 logo | PNG version, full transparent, with 3D shade
+05	Fatih '21 logo | JPG version, Facebook post version, blue bg, with 3D shade
+06	Fatih '21 logo | Illustrator file
+07	Fatih '21 logo | Photoshop file (used for 3D shading)
+08	General Post Template | JPG version
+09	General Post Template | Photoshop file (Recommended for further edit)
